@@ -1,8 +1,8 @@
 ---
 name: BUG
-about: bug template
+about: 버그 발생 시 사용하는 이슈입니다.
 title: "[BUG]"
-labels: "\U0001F41BBUG"
+labels: ''
 assignees: ''
 
 ---

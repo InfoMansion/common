@@ -1,8 +1,8 @@
 ---
 name: REFACTOR
-about: refactor
+about: 리팩토링 시 사용하는 이슈입니다.
 title: "[REFACTOR]"
-labels: REFACTOR
+labels: ''
 assignees: ''
 
 ---

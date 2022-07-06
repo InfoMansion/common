@@ -1,8 +1,8 @@
 ---
 name: HELP
-about: 도움 요청
+about: 도움 요청 시 사용하는 이슈입니다.
 title: "[HELP]"
-labels: "\U0001F4E2HELP"
+labels: ''
 assignees: ''
 
 ---
